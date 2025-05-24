@@ -1,4 +1,4 @@
-# ghost-onist
+# Ghost-onist
 ☠️ BLACKSIGHT: SIGMA GHOST OSNIT SCANNER FOR BLACK HAT HACKER By: Sigma-Cyber-Ghost
 
 📂 What is BlackSight?
