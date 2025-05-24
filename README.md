@@ -24,7 +24,7 @@ This tool mimics how real-world intelligence agencies and underground hackers ex
 🧪 Demo
 
 1) COMMAND ===> pip install requests colorama
-2) COMMAND ===> python3 ghost-osnit.py 
+2) COMMAND ===> python3 ghost-onist.py 
 its will show you something like that !
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
